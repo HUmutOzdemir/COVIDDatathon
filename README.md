@@ -18,7 +18,7 @@ We implemented all projects in a Jupyter Notebook. You can find the instructions
 
 ## Data Sources
 
-* [Daily COVID-19 Statististics of World]()
+* [Daily COVID-19 Statististics of World](https://covid.ourworldindata.org/data/ecdc/total_cases.csv)
 * [Daily COVID-19 Statistics of Turkey](https://covid19.saglik.gov.tr/)
 * [Intense Care Unit Statistics of Turkey](https://www.saglik.gov.tr/TR,64544/bakan-koca-tbmmde-koronavirus-ile-mucadeleye-iliskin-sunum-yapti.html)
 * [Average Duration in Intense Care Unit of a Patient](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
