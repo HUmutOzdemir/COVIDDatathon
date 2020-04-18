@@ -6,7 +6,7 @@
   * Halil Umut ÖZDEMİR
   * Ahmet Atakan DEMİRKAN
   * Umut KOCASARI
-  * Halil İBrahim ORHAN
+  * Halil İbrahim ORHAN
 
 ## Project Description
 
