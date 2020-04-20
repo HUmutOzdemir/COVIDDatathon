@@ -3,10 +3,10 @@
 * Team Name : StayAtHome
 * Subject of the Project: Analyzing the Usage Percentages of ICU in Turkey with using ML and Simulation
 * Contributors:
-  * Halil Umut ÖZDEMİR
-  * Ahmet Atakan DEMİRKAN
+  * [Halil Umut ÖZDEMİR](https://github.com/HUmutOzdemir)
+  * [Ahmet Atakan DEMİRKAN](https://www.linkedin.com/in/atakan-demirkan-0a1226128/)
   * Umut KOCASARI
-  * Halil İbrahim ORHAN
+  * [Halil İbrahim ORHAN](https://github.com/ibrahimorhan)
 
 ## Project Description
 
