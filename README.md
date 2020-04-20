@@ -5,7 +5,7 @@
 * Contributors:
   * [Halil Umut ÖZDEMİR](https://github.com/HUmutOzdemir)
   * [Ahmet Atakan DEMİRKAN](https://www.linkedin.com/in/atakan-demirkan-0a1226128/)
-  * Umut KOCASARI
+  * [Umut KOCASARI](https://github.com/kocasariumut)
   * [Halil İbrahim ORHAN](https://github.com/ibrahimorhan)
 
 ## Project Description
