@@ -27,3 +27,7 @@ We implemented all projects in a Jupyter Notebook. You can find the instructions
   * [2](https://www.kiro7.com/news/trending/coronavirus-how-covid-19-progresses-day-by-day-breakdown-symptoms/YRC3CCK2NFD2THIYJHT35447AU/)
 * [Average Ratio of Intense Care Unit Paitents](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf)
 * [Average Death Ratio of Intese Care Unit Patients](https://www.statista.com/chart/21360/uk-intensive-care-covid-19-survival-rate/)
+* [Number of ICU in the Istanbul](https://tr.euronews.com/2020/04/05/koronavirus-turkiye-de-hangi-bolgede-kisi-basina-kac-yogun-bakim-yatagi-dusuyor)
+* Ratio of the Cases in the Istanbul and Cases in Turkey
+  * [1](https://www.hurriyet.com.tr/galeri-saglik-bakanligi-corona-virusu-il-il-tablosu-11-nisan-koronavirus-coronavirus-turkiye-son-durum-vaka-ve-olum-sayisi-haritasi-41489036/19)
+  * [2](https://www.bbc.com/turkce/haberler-turkiye-51576487)
